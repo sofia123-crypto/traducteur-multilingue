@@ -6,9 +6,11 @@ Application web permettant de **traduire du texte entre plusieurs langues en tem
 
 - Soufia Bahrini // soufia.bahrini@enstab.ucar.tn  **2EAN**
 
-## 🚀 Démo en Ligne
- 
-- 🌐 **Interface Web** : [https://sofia123-crypto.github.io/traducteur-multilingue/](https://sofia123-crypto.github.io/traducteur-multilingue/)
+## 🎬 Vidéo Démo
+
+
+
+📽️ [Regarder la démo sur Google Drive](https://drive.google.com/drive/folders/1ECspIKN9h0NG9cr6t7CvujXZWiH08TVD?usp=sharing)
 
 
 ## 📸 Captures d'Écran
@@ -22,11 +24,7 @@ Application web permettant de **traduire du texte entre plusieurs langues en tem
 ### Image 3 - Statistiques de Traduction
 ![Image 3](./image3.png)
 
-## 🎬 Vidéo Démo
 
-
-
-📽️ [Regarder la démo sur Google Drive](https://drive.google.com/drive/folders/1ECspIKN9h0NG9cr6t7CvujXZWiH08TVD?usp=sharing)
 
 ## Architecture du Projet
 
@@ -137,4 +135,7 @@ Ouvrez votre navigateur à l'adresse : **[http://localhost:5000](http://localhos
 - Accès : Via l'API d'inférence Hugging Face (gratuit)
 
 
+## 🚀 Démo en Ligne
+ 
+- 🌐 **Interface Web** : [https://sofia123-crypto.github.io/traducteur-multilingue/](https://sofia123-crypto.github.io/traducteur-multilingue/)
 
