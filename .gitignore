@@ -1,0 +1,49 @@
+# .gitignore pour traducteur-multilingue
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Environnement
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Système
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Cache
+.cache/
+.eslintcache
+
+# Build
+dist/
+build/
+*.tgz
+
+# OS
+.env.local.php
+.DS_Store
+
+# Fichiers temporaires
+tmp/
+temp/
+*.tmp
