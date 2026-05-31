@@ -2,6 +2,15 @@
 
 Application web permettant de **traduire du texte entre plusieurs langues en temps réel** grâce à l'intelligence artificielle (Helsinki-NLP OPUS-MT via Hugging Face).
 
+## Étudiants
+
+- Soufia Bahrini // soufia.bahrini@enstab.ucar.tn
+
+## 🚀 Démo en Ligne
+ 
+- 🌐 **Interface Web** : [https://sofia123-crypto.github.io/traducteur-multilingue/](https://sofia123-crypto.github.io/traducteur-multilingue/)
+- ⚙️ **API Backend** : [https://traducteur-multilingue.onrender.com](https://traducteur-multilingue.onrender.com)
+
 ## 📸 Captures d'Écran
 
 ### Image 1 - Interface Principale
@@ -17,7 +26,7 @@ Application web permettant de **traduire du texte entre plusieurs langues en tem
 
 
 
-📽️ [Regarder la démo sur Google Drive](https://drive.google.com/drive/folders/1m-S_J45-SAm9eHvrGqvfwSPp0ZvxbE35?usp=sharing)
+📽️ [Regarder la démo sur Google Drive](https://drive.google.com/drive/folders/1ECspIKN9h0NG9cr6t7CvujXZWiH08TVD?usp=sharing)
 
 ## Architecture du Projet
 
@@ -44,6 +53,8 @@ traducteur-multilingue/
 | **Backend** | Node.js + Express.js |
 | **Modèle IA** | Helsinki-NLP OPUS-MT (via Hugging Face Inference API) |
 | **Frontend** | HTML5, CSS3, JavaScript (Vanilla) |
+| **Hébergement Backend** | Render.com |
+| **Hébergement Frontend** | GitHub Pages |
 | **Design** | Design moderne responsive avec gradients |
 
 ## Installation et Lancement
@@ -125,8 +136,5 @@ Ouvrez votre navigateur à l'adresse : **[http://localhost:5000](http://localhos
 - Support : 12+ paires de langues directes + modèle multilingue de fallback
 - Accès : Via l'API d'inférence Hugging Face (gratuit)
 
-## Étudiants
-
-- Soufia Bahrini // soufia.bahrini@enstab.ucar.tn
 
 
