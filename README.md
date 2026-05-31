@@ -4,7 +4,7 @@ Application web permettant de **traduire du texte entre plusieurs langues en tem
 
 ## Étudiants
 
-- Soufia Bahrini // soufia.bahrini@enstab.ucar.tn
+- Soufia Bahrini // soufia.bahrini@enstab.ucar.tn  **2EAN**
 
 ## 🚀 Démo en Ligne
  
