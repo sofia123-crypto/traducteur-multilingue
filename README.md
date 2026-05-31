@@ -9,7 +9,7 @@ Application web permettant de **traduire du texte entre plusieurs langues en tem
 ## 🚀 Démo en Ligne
  
 - 🌐 **Interface Web** : [https://sofia123-crypto.github.io/traducteur-multilingue/](https://sofia123-crypto.github.io/traducteur-multilingue/)
-- ⚙️ **API Backend** : [https://traducteur-multilingue.onrender.com](https://traducteur-multilingue.onrender.com)
+
 
 ## 📸 Captures d'Écran
 
