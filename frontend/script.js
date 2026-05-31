@@ -1,5 +1,5 @@
 // Configuration
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://traducteur-multilingue.onrender.com/api';
 const CHECK_INTERVAL = 3000; // Vérification toutes les 3 secondes
 
 // Éléments DOM
